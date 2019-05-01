@@ -1,2 +1,2 @@
-# english-dictionary
-Word based English dictionary
+### English Dictionary
+Word based English dictionary.
